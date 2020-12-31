@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApplication", "MVCApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIApplication", "APIApplication\APIApplication.csproj", "{912D98D3-3181-404E-82D6-9CE8E82B4538}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServer", "BlazorServer\BlazorServer.csproj", "{786081E4-3756-4ABA-B79D-8FDCD77B94EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{912D98D3-3181-404E-82D6-9CE8E82B4538}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{912D98D3-3181-404E-82D6-9CE8E82B4538}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{912D98D3-3181-404E-82D6-9CE8E82B4538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786081E4-3756-4ABA-B79D-8FDCD77B94EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786081E4-3756-4ABA-B79D-8FDCD77B94EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786081E4-3756-4ABA-B79D-8FDCD77B94EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786081E4-3756-4ABA-B79D-8FDCD77B94EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
