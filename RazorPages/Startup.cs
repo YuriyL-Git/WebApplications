@@ -41,6 +41,7 @@ namespace RazorPages
             }
 
             app.UseHttpsRedirection();
+
             app.UseStaticFiles();
 
             app.UseRouting();

@@ -743,11 +743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\WebApplications\\RazorPages\\RazorPages.csproj",
+      "projectUniqueName": "C:\\GitRepository\\WebApplications\\RazorPages\\RazorPages.csproj",
       "projectName": "RazorPages",
-      "projectPath": "C:\\Temp\\WebApplications\\RazorPages\\RazorPages.csproj",
+      "projectPath": "C:\\GitRepository\\WebApplications\\RazorPages\\RazorPages.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\WebApplications\\RazorPages\\obj\\",
+      "outputPath": "C:\\GitRepository\\WebApplications\\RazorPages\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
